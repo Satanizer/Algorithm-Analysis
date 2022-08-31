@@ -1,0 +1,5 @@
+define swap(x, y)
+	
+buffer = x
+x = y
+y = buffer

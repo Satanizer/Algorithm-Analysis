@@ -1,0 +1,14 @@
+step 1 deklarasi volume, pi, diameter, radius, tinggi.
+step 2 masukan pi = 22/7, diameter = 5, radius = diameter/2, tinggi = 4.
+step 3 hitung volume = 1/3*pi*radius^2*tinggi.
+step 4 tampilkan volume
+
+pseudocode :
+
+variabel volume, pi, diameter, radius, tinggi
+pi < 22/7
+diameter < 5
+jari-jari < diameter/2
+tinggi < 4
+volume < 1/3*pi*radius^2*tinggi
+write(volume)

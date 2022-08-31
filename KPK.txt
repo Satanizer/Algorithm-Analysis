@@ -1,0 +1,9 @@
+step 1 nilai fpb(3, 4), simpan hasil pada variabel fpb
+step 2 hitung nilai |3.4|/fpb, simpan hasilnya ke result
+step 3 kembalikan result sebagai hasil KPK
+
+pseudocode :
+
+fpb < fpb(3, 4)
+result < 3.4/fpb
+return result
